@@ -31,6 +31,12 @@ header h2 {
   text-shadow: 3px 3px 5px rgb(38, 39, 39);
 }
 
+p {
+  font-family: 'Questrial';
+  font-size: larger;
+  line-height: 1.5;
+}
+
 header .social-nav {
   position: absolute;
   bottom: -30px;
