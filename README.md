@@ -1,2 +1,2 @@
 # Homeproject
-It is initially a web-site for a music school.
+It is initially a web-site for a music school. 
