@@ -91,7 +91,7 @@ section.about p {
 }
 
 .projects {
-  display: flex;
+ 
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
@@ -105,7 +105,7 @@ section.about p {
 
 .project {
   display: block;
-  width: 286px;
+  width: 100%;
   background: red;
   margin-bottom: 20px;
   height: 200px;
