@@ -20,7 +20,7 @@ header {
   justify-content: center;
   align-items: center;
   width: 100vw;
-  background-image: linear-gradient(teal,rgb(255, 255, 255));
+  background-image: linear-gradient(to right, teal,rgb(50, 139, 255));
   height: 275px;
 }
 
