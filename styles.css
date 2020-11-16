@@ -20,7 +20,7 @@ header {
   justify-content: center;
   align-items: center;
   width: 100vw;
-  background-image: linear-gradient(teal,orange);
+  background-image: linear-gradient(teal,rgb(255, 255, 255));
   height: 275px;
 }
 
@@ -91,7 +91,7 @@ section.about p {
 }
 
 .projects {
- 
+  display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
@@ -105,7 +105,7 @@ section.about p {
 
 .project {
   display: block;
-  width: 100%;
+  width: 250px;
   background: red;
   margin-bottom: 20px;
   height: 200px;
